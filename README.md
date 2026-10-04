@@ -60,7 +60,7 @@ Run the Flask application:
 Bash
 python app.py
 Open in Browser:
-Navigate to http://127.0.0.1:5000
+Navigate to http://127.0.0.1:5050
 
 👨‍💻 Author
 Umair Saleem
